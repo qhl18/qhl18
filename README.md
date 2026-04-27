@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**qhl18/qhl18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **钱泓林** (Qian Honglin), an undergraduate at **Lanzhou University**, majoring in **Digital Intelligence Finance Innovation Class**.
 
-Here are some ideas to get you started:
+### 🔭 Currently Working On
+- LLM-driven quantitative factor mining
+- Alternative data (news sentiment) for A-share market
+- Agent-based alpha generation frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Factor modeling & backtesting (JoinQuant / WorldQuant)
+- Python for financial data analysis
+- Prompt engineering for quantitative research
+
+### 📫 How to reach me
+- Email: qiandeyi0234@qq.com
+
+### ⚡ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+---
+
+&gt; *"Fake it till you make it."* 🎯
